@@ -1,1 +1,3 @@
-Task 0. Where am I?
+This Repository Consist of the following Project folder/directories:
+1) 0x00-shell_basics
+2) 0x01-shell_permissions
